@@ -1,0 +1,400 @@
+2024-06-18T21:03:42.218384 - Starting subdomain scanning...
+
+2024-06-18T21:04:05.197126 - 203 subdomains found
+
+2024-06-18T21:04:05.208330 - Valid subdomain : www.hepsiburada.com
+
+2024-06-18T21:04:05.208330 - Ip of the www.hepsiburada.com : 2.18.5.64
+
+2024-06-18T21:04:10.962339 - Open Ports at the 2.18.5.64 : [80, 443]
+
+2024-06-18T21:04:10.962339 - Checking for an SSL certificate...
+
+2024-06-18T21:04:11.153571 - SSL details found for: www.hepsiburada.com
+
+2024-06-18T21:04:11.426599 - Valid subdomain : advertising.hepsiburada.com
+
+2024-06-18T21:04:11.428607 - Ip of the advertising.hepsiburada.com : 104.103.91.143
+
+2024-06-18T21:04:17.192840 - Open Ports at the 104.103.91.143 : [80, 443]
+
+2024-06-18T21:04:17.194833 - Checking for an SSL certificate...
+
+2024-06-18T21:04:17.457709 - SSL details found for: advertising.hepsiburada.com
+
+2024-06-18T21:04:17.587894 - Invalid subdomain : www.advertising.hepsiburada.com
+
+2024-06-18T21:04:17.659671 - Valid subdomain : akademi.hepsiburada.com
+
+2024-06-18T21:04:17.661696 - Ip of the akademi.hepsiburada.com : 77.92.107.254
+
+2024-06-18T21:04:23.426104 - Open Ports at the 77.92.107.254 : [80, 443]
+
+2024-06-18T21:04:23.427101 - Checking for an SSL certificate...
+
+2024-06-18T21:04:23.626945 - SSL details found for: akademi.hepsiburada.com
+
+2024-06-18T21:04:23.755844 - Invalid subdomain : www.akademi.hepsiburada.com
+
+2024-06-18T21:04:23.898154 - Valid subdomain : alternacx.hepsiburada.com
+
+2024-06-18T21:04:23.898154 - Ip of the alternacx.hepsiburada.com : 85.153.160.8
+
+2024-06-18T21:04:29.626056 - Open Ports at the 85.153.160.8 : [80, 443]
+
+2024-06-18T21:04:29.627060 - Checking for an SSL certificate...
+
+2024-06-18T21:04:29.829772 - SSL details found for: alternacx.hepsiburada.com
+
+2024-06-18T21:04:29.935188 - Valid subdomain : api-asktoseller.hepsiburada.com
+
+2024-06-18T21:04:29.937200 - Ip of the api-asktoseller.hepsiburada.com : 212.65.142.200
+
+2024-06-18T21:04:35.674616 - Open Ports at the 212.65.142.200 : [80, 443]
+
+2024-06-18T21:04:35.675633 - Checking for an SSL certificate...
+
+2024-06-18T21:04:35.923695 - SSL details found for: api-asktoseller.hepsiburada.com
+
+2024-06-18T21:04:35.934487 - Valid subdomain : api-asktoseller-merchant.hepsiburada.com
+
+2024-06-18T21:04:35.935183 - Ip of the api-asktoseller-merchant.hepsiburada.com : 212.65.142.201
+
+2024-06-18T21:04:41.668347 - Open Ports at the 212.65.142.201 : [80, 443]
+
+2024-06-18T21:04:41.668347 - Checking for an SSL certificate...
+
+2024-06-18T21:04:41.913112 - SSL details found for: api-asktoseller-merchant.hepsiburada.com
+
+2024-06-18T21:04:42.027238 - Valid subdomain : api-cozummerkezi.hepsiburada.com
+
+2024-06-18T21:04:42.028237 - Ip of the api-cozummerkezi.hepsiburada.com : 23.14.115.213
+
+2024-06-18T21:04:47.761640 - Open Ports at the 23.14.115.213 : [80, 443]
+
+2024-06-18T21:04:47.761640 - Checking for an SSL certificate...
+
+2024-06-18T21:04:47.953038 - SSL details found for: api-cozummerkezi.hepsiburada.com
+
+2024-06-18T21:04:48.015918 - Invalid subdomain : apibugbounty.hepsiburada.com
+
+2024-06-18T21:04:48.246708 - Valid subdomain : apicyberbounty.hepsiburada.com
+
+2024-06-18T21:04:48.247705 - Ip of the apicyberbounty.hepsiburada.com : 212.65.142.192
+
+2024-06-18T21:04:53.989553 - Open Ports at the 212.65.142.192 : [80, 443]
+
+2024-06-18T21:04:53.990564 - Checking for an SSL certificate...
+
+2024-06-18T21:04:54.488670 - SSL details found for: apicyberbounty.hepsiburada.com
+
+2024-06-18T21:04:54.559185 - Valid subdomain : arabia.hepsiburada.com
+
+2024-06-18T21:04:54.559185 - Ip of the arabia.hepsiburada.com : 185.51.152.52
+
+2024-06-18T21:05:00.289532 - Open Ports at the 185.51.152.52 : []
+
+2024-06-18T21:05:00.289532 - Checking for an SSL certificate...
+
+2024-06-18T21:07:27.238290 - Starting subdomain scanning...
+
+2024-06-18T21:07:50.904959 - 203 subdomains found
+
+2024-06-18T21:07:50.917577 - Valid subdomain : www.hepsiburada.com
+
+2024-06-18T21:07:50.917577 - Ip of the www.hepsiburada.com : 2.18.5.64
+
+2024-06-18T21:07:56.636872 - Open Ports at the 2.18.5.64 : [80, 443]
+
+2024-06-18T21:07:56.637865 - Checking for an SSL certificate...
+
+2024-06-18T21:07:56.858539 - SSL details found for: www.hepsiburada.com
+
+2024-06-18T21:07:57.115528 - Valid subdomain : advertising.hepsiburada.com
+
+2024-06-18T21:07:57.120021 - Ip of the advertising.hepsiburada.com : 104.103.91.143
+
+2024-06-18T21:08:02.870932 - Open Ports at the 104.103.91.143 : [80, 443]
+
+2024-06-18T21:08:02.872376 - Checking for an SSL certificate...
+
+2024-06-18T21:08:03.095273 - SSL details found for: advertising.hepsiburada.com
+
+2024-06-18T21:08:03.126782 - Invalid subdomain : www.advertising.hepsiburada.com
+
+2024-06-18T21:08:03.127780 - Valid subdomain : akademi.hepsiburada.com
+
+2024-06-18T21:08:03.128779 - Ip of the akademi.hepsiburada.com : 77.92.107.254
+
+2024-06-18T21:08:08.871855 - Open Ports at the 77.92.107.254 : [80, 443]
+
+2024-06-18T21:08:08.872855 - Checking for an SSL certificate...
+
+2024-06-18T21:08:09.067761 - SSL details found for: akademi.hepsiburada.com
+
+2024-06-18T21:08:09.203357 - Invalid subdomain : www.akademi.hepsiburada.com
+
+2024-06-18T21:08:09.354304 - Valid subdomain : alternacx.hepsiburada.com
+
+2024-06-18T21:08:09.354304 - Ip of the alternacx.hepsiburada.com : 185.92.213.10
+
+2024-06-18T21:08:15.060885 - Open Ports at the 185.92.213.10 : [80, 443]
+
+2024-06-18T21:08:15.060885 - Checking for an SSL certificate...
+
+2024-06-18T21:08:15.253833 - SSL details found for: alternacx.hepsiburada.com
+
+2024-06-18T21:08:15.268842 - Valid subdomain : api-asktoseller.hepsiburada.com
+
+2024-06-18T21:08:15.269839 - Ip of the api-asktoseller.hepsiburada.com : 212.65.142.200
+
+2024-06-18T21:08:21.008119 - Open Ports at the 212.65.142.200 : [80, 443]
+
+2024-06-18T21:08:21.008119 - Checking for an SSL certificate...
+
+2024-06-18T21:08:21.228692 - SSL details found for: api-asktoseller.hepsiburada.com
+
+2024-06-18T21:08:21.322873 - Valid subdomain : api-asktoseller-merchant.hepsiburada.com
+
+2024-06-18T21:08:21.322873 - Ip of the api-asktoseller-merchant.hepsiburada.com : 212.65.142.187
+
+2024-06-18T21:08:27.051825 - Open Ports at the 212.65.142.187 : [80, 443]
+
+2024-06-18T21:08:27.051825 - Checking for an SSL certificate...
+
+2024-06-18T21:08:27.274841 - SSL details found for: api-asktoseller-merchant.hepsiburada.com
+
+2024-06-18T21:08:27.424026 - Valid subdomain : api-cozummerkezi.hepsiburada.com
+
+2024-06-18T21:08:27.424026 - Ip of the api-cozummerkezi.hepsiburada.com : 104.103.91.143
+
+2024-06-18T21:08:33.181147 - Open Ports at the 104.103.91.143 : [80, 443]
+
+2024-06-18T21:08:33.181147 - Checking for an SSL certificate...
+
+2024-06-18T21:08:33.419935 - SSL details found for: api-cozummerkezi.hepsiburada.com
+
+2024-06-18T21:08:33.500621 - Invalid subdomain : apibugbounty.hepsiburada.com
+
+2024-06-18T21:08:33.711052 - Valid subdomain : apicyberbounty.hepsiburada.com
+
+2024-06-18T21:08:33.711052 - Ip of the apicyberbounty.hepsiburada.com : 212.65.142.192
+
+2024-06-18T21:08:39.434995 - Open Ports at the 212.65.142.192 : [80, 443]
+
+2024-06-18T21:08:39.436029 - Checking for an SSL certificate...
+
+2024-06-18T21:08:39.662728 - SSL details found for: apicyberbounty.hepsiburada.com
+
+2024-06-18T21:08:39.666681 - Valid subdomain : arabia.hepsiburada.com
+
+2024-06-18T21:08:39.666681 - Ip of the arabia.hepsiburada.com : 185.51.152.52
+
+2024-06-18T21:08:45.399849 - Open Ports at the 185.51.152.52 : []
+
+2024-06-18T21:08:45.399849 - Checking for an SSL certificate...
+
+2024-06-18T21:08:48.552794 - SSL details found for: arabia.hepsiburada.com
+
+2024-06-18T21:08:48.674214 - Invalid subdomain : www.arabia.hepsiburada.com
+
+2024-06-18T21:08:48.708672 - Valid subdomain : arf-user-interest.hepsiburada.com
+
+2024-06-18T21:08:48.709668 - Ip of the arf-user-interest.hepsiburada.com : 212.65.142.187
+
+2024-06-18T21:08:54.451410 - Open Ports at the 212.65.142.187 : [80, 443]
+
+2024-06-18T21:08:54.451410 - Checking for an SSL certificate...
+
+2024-06-18T21:08:54.671745 - SSL details found for: arf-user-interest.hepsiburada.com
+
+2024-06-18T21:08:54.778024 - Valid subdomain : artemis-listing.hepsiburada.com
+
+2024-06-18T21:08:54.779531 - Ip of the artemis-listing.hepsiburada.com : 212.65.142.192
+
+2024-06-18T21:09:00.526037 - Open Ports at the 212.65.142.192 : [80, 443]
+
+2024-06-18T21:09:00.526037 - Checking for an SSL certificate...
+
+2024-06-18T21:09:00.735066 - SSL details found for: artemis-listing.hepsiburada.com
+
+2024-06-18T21:09:00.873547 - Valid subdomain : asktoseller.hepsiburada.com
+
+2024-06-18T21:09:00.874545 - Ip of the asktoseller.hepsiburada.com : 212.65.142.200
+
+2024-06-18T21:09:06.624015 - Open Ports at the 212.65.142.200 : [80, 443]
+
+2024-06-18T21:09:06.624015 - Checking for an SSL certificate...
+
+2024-06-18T21:09:06.832833 - SSL details found for: asktoseller.hepsiburada.com
+
+2024-06-18T21:09:06.898252 - Valid subdomain : asktoseller-merchant.hepsiburada.com
+
+2024-06-18T21:09:06.900913 - Ip of the asktoseller-merchant.hepsiburada.com : 212.65.142.200
+
+2024-06-18T21:09:12.658715 - Open Ports at the 212.65.142.200 : [80, 443]
+
+2024-06-18T21:09:12.658715 - Checking for an SSL certificate...
+
+2024-06-18T21:09:12.916886 - SSL details found for: asktoseller-merchant.hepsiburada.com
+
+2024-06-18T21:09:12.994652 - Valid subdomain : blackgate.hepsiburada.com
+
+2024-06-18T21:09:12.996648 - Ip of the blackgate.hepsiburada.com : 212.65.142.200
+
+2024-06-18T21:09:18.745317 - Open Ports at the 212.65.142.200 : [80, 443]
+
+2024-06-18T21:09:18.745317 - Checking for an SSL certificate...
+
+2024-06-18T21:09:18.948884 - SSL details found for: blackgate.hepsiburada.com
+
+2024-06-18T21:09:19.035040 - Invalid subdomain : blue.hepsiburada.com
+
+2024-06-18T21:09:19.150752 - Invalid subdomain : bugbounty.hepsiburada.com
+
+2024-06-18T21:09:19.233774 - Valid subdomain : buybackapi.hepsiburada.com
+
+2024-06-18T21:09:19.234773 - Ip of the buybackapi.hepsiburada.com : 85.153.160.108
+
+2024-06-18T21:09:21.394812 - Stopping the operation...
+
+2024-06-18T21:09:21.395840 - Operation stopped
+
+2024-06-18T21:09:24.969570 - Open Ports at the 85.153.160.108 : [80, 443]
+
+2024-06-18T21:09:24.969570 - Checking for an SSL certificate...
+
+2024-06-18T21:09:25.157142 - SSL details found for: buybackapi.hepsiburada.com
+
+2024-06-18T21:09:25.164212 - Scan stopped by user
+
+2024-06-18T21:09:28.843013 - Starting subdomain scanning...
+
+2024-06-22T16:33:22.911363 - Starting subdomain scanning...
+
+2024-06-22T16:33:46.060996 - 203 subdomains found
+
+2024-06-22T16:33:46.071570 - Valid subdomain : www.hepsiburada.com
+
+2024-06-22T16:33:46.072567 - Ip of the www.hepsiburada.com : 2.18.5.64
+
+2024-06-22T16:33:51.799089 - Open Ports at the 2.18.5.64 : [80, 443]
+
+2024-06-22T16:33:51.799089 - Checking for an SSL certificate...
+
+2024-06-22T16:33:51.975695 - SSL details found for: www.hepsiburada.com
+
+2024-06-22T16:33:52.175730 - Valid subdomain : advertising.hepsiburada.com
+
+2024-06-22T16:33:52.175730 - Ip of the advertising.hepsiburada.com : 23.14.115.213
+
+2024-06-22T16:33:57.934918 - Open Ports at the 23.14.115.213 : [80, 443]
+
+2024-06-22T16:33:57.934918 - Checking for an SSL certificate...
+
+2024-06-22T16:33:58.397222 - SSL details found for: advertising.hepsiburada.com
+
+2024-06-22T16:33:58.524036 - Invalid subdomain : www.advertising.hepsiburada.com
+
+2024-06-22T16:33:58.553049 - Valid subdomain : akademi.hepsiburada.com
+
+2024-06-22T16:33:58.553049 - Ip of the akademi.hepsiburada.com : 77.92.107.254
+
+2024-06-22T16:34:04.318899 - Open Ports at the 77.92.107.254 : [80, 443]
+
+2024-06-22T16:34:04.318899 - Checking for an SSL certificate...
+
+2024-06-22T16:34:04.530403 - SSL details found for: akademi.hepsiburada.com
+
+2024-06-22T16:34:04.659063 - Invalid subdomain : www.akademi.hepsiburada.com
+
+2024-06-22T16:34:04.799670 - Valid subdomain : alternacx.hepsiburada.com
+
+2024-06-22T16:34:04.799670 - Ip of the alternacx.hepsiburada.com : 185.92.213.10
+
+2024-06-22T16:34:10.523030 - Open Ports at the 185.92.213.10 : [80, 443]
+
+2024-06-22T16:34:10.523030 - Checking for an SSL certificate...
+
+2024-06-22T16:34:10.721370 - SSL details found for: alternacx.hepsiburada.com
+
+2024-06-22T16:34:10.807399 - Valid subdomain : api-asktoseller.hepsiburada.com
+
+2024-06-22T16:34:10.821141 - Ip of the api-asktoseller.hepsiburada.com : 212.65.142.187
+
+2024-06-22T16:34:16.550332 - Open Ports at the 212.65.142.187 : [80, 443]
+
+2024-06-22T16:34:16.550332 - Checking for an SSL certificate...
+
+2024-06-22T16:34:16.771831 - SSL details found for: api-asktoseller.hepsiburada.com
+
+2024-06-22T16:34:16.785057 - Valid subdomain : api-asktoseller-merchant.hepsiburada.com
+
+2024-06-22T16:34:16.785057 - Ip of the api-asktoseller-merchant.hepsiburada.com : 212.65.142.187
+
+2024-06-22T16:34:22.521320 - Open Ports at the 212.65.142.187 : [80, 443]
+
+2024-06-22T16:34:22.521320 - Checking for an SSL certificate...
+
+2024-06-22T16:34:22.753416 - SSL details found for: api-asktoseller-merchant.hepsiburada.com
+
+2024-06-22T16:34:22.888196 - Valid subdomain : api-cozummerkezi.hepsiburada.com
+
+2024-06-22T16:34:22.889960 - Ip of the api-cozummerkezi.hepsiburada.com : 23.14.115.213
+
+2024-06-22T16:34:28.638301 - Open Ports at the 23.14.115.213 : [80, 443]
+
+2024-06-22T16:34:28.638301 - Checking for an SSL certificate...
+
+2024-06-22T16:34:28.829904 - SSL details found for: api-cozummerkezi.hepsiburada.com
+
+2024-06-22T16:34:28.900472 - Invalid subdomain : apibugbounty.hepsiburada.com
+
+2024-06-22T16:34:29.128409 - Valid subdomain : apicyberbounty.hepsiburada.com
+
+2024-06-22T16:34:29.128409 - Ip of the apicyberbounty.hepsiburada.com : 212.65.142.192
+
+2024-06-22T16:34:34.852956 - Open Ports at the 212.65.142.192 : [80, 443]
+
+2024-06-22T16:34:34.854033 - Checking for an SSL certificate...
+
+2024-06-22T16:34:35.086635 - SSL details found for: apicyberbounty.hepsiburada.com
+
+2024-06-22T16:34:35.153468 - Valid subdomain : arabia.hepsiburada.com
+
+2024-06-22T16:34:35.154466 - Ip of the arabia.hepsiburada.com : 185.51.152.52
+
+2024-06-22T16:34:40.878707 - Open Ports at the 185.51.152.52 : []
+
+2024-06-22T16:34:40.879760 - Checking for an SSL certificate...
+
+2024-06-22T16:34:44.025371 - SSL details found for: arabia.hepsiburada.com
+
+2024-06-22T16:34:44.151246 - Invalid subdomain : www.arabia.hepsiburada.com
+
+2024-06-22T16:34:44.168558 - Valid subdomain : arf-user-interest.hepsiburada.com
+
+2024-06-22T16:34:44.170541 - Ip of the arf-user-interest.hepsiburada.com : 212.65.142.187
+
+2024-06-22T16:34:49.946048 - Open Ports at the 212.65.142.187 : [80, 443]
+
+2024-06-22T16:34:49.946048 - Checking for an SSL certificate...
+
+2024-06-22T16:34:50.170223 - SSL details found for: arf-user-interest.hepsiburada.com
+
+2024-06-22T16:34:50.276369 - Valid subdomain : artemis-listing.hepsiburada.com
+
+2024-06-22T16:34:50.276910 - Ip of the artemis-listing.hepsiburada.com : 212.65.142.192
+
+2024-06-22T16:34:52.883447 - Stopping the operation...
+
+2024-06-22T16:34:52.883447 - Operation stopped
+
+2024-06-22T16:34:56.014109 - Open Ports at the 212.65.142.192 : [80, 443]
+
+2024-06-22T16:34:56.015145 - Checking for an SSL certificate...
+
+2024-06-22T16:34:56.193979 - SSL details found for: artemis-listing.hepsiburada.com
+
+2024-06-22T16:34:56.196448 - Scan stopped by user
+

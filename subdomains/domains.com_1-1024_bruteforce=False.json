@@ -1,0 +1,129 @@
+{
+    "www.domains.com": {
+        "ip_address": "160.153.0.39",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "www.domains.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "E1"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "0366171B77FF778EA5E746F86FC9E3923F2C",
+            "notBefore": "Apr 30 15:31:35 2024 GMT",
+            "notAfter": "Jul 29 15:31:34 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "www.domains.com"
+                ]
+            ],
+            "OCSP": [
+                "http://e1.o.lencr.org"
+            ],
+            "caIssuers": [
+                "http://e1.i.lencr.org/"
+            ]
+        }
+    },
+    "shop.domains.com": {
+        "ip_address": "104.238.65.129",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "shop.domains.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "stateOrProvinceName",
+                        "Arizona"
+                    ]
+                ],
+                [
+                    [
+                        "localityName",
+                        "Scottsdale"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Starfield Technologies, Inc."
+                    ]
+                ],
+                [
+                    [
+                        "organizationalUnitName",
+                        "http://certs.starfieldtech.com/repository/"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "Starfield Secure Certificate Authority - G2"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "F251B38AC992E232",
+            "notBefore": "Sep 11 00:14:38 2023 GMT",
+            "notAfter": "Oct 12 00:14:38 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "shop.domains.com"
+                ]
+            ],
+            "OCSP": [
+                "http://ocsp.starfieldtech.com/"
+            ],
+            "caIssuers": [
+                "http://certificates.starfieldtech.com/repository/sfig2.crt"
+            ],
+            "crlDistributionPoints": [
+                "http://crl.starfieldtech.com/sfig2s1-621.crl"
+            ]
+        }
+    }
+}

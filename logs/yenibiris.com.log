@@ -1,0 +1,30 @@
+2024-06-18T23:27:23.024965 - Starting subdomain scanning...
+
+2024-06-18T23:27:47.142806 - 11 subdomains found
+
+2024-06-18T23:27:52.363331 - Invalid subdomain : fs.yenibiris.com
+
+2024-06-18T23:27:58.371581 - Invalid subdomain : isyasami.yenibiris.com
+
+2024-06-18T23:28:04.598644 - Invalid subdomain : www.isyasami.yenibiris.com
+
+2024-06-18T23:28:09.860014 - Invalid subdomain : meydan.yenibiris.com
+
+2024-06-18T23:28:15.337410 - Invalid subdomain : sfs.yenibiris.com
+
+2024-06-18T23:28:22.542197 - Invalid subdomain : smartinterview.yenibiris.com
+
+2024-06-18T23:28:28.289817 - Invalid subdomain : b.smartinterview.yenibiris.com
+
+2024-06-18T23:28:34.804396 - Invalid subdomain : sinav.smarttest.yenibiris.com
+
+2024-06-18T23:28:40.491470 - Invalid subdomain : stage.yenibiris.com
+
+2024-06-18T23:28:45.200995 - Invalid subdomain : stageadmin.yenibiris.com
+
+2024-06-18T23:28:50.269808 - Invalid subdomain : stagekurumsal.yenibiris.com
+
+2024-06-18T23:28:50.275087 - Found 0 valid subdomains!
+
+2024-06-18T23:28:50.276147 - Scan complete. Saved results to yenibiris.com_1-1024_bruteforce=False.json
+

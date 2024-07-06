@@ -1,0 +1,18 @@
+2024-06-18T23:26:35.872176 - Starting subdomain scanning...
+
+2024-06-18T23:27:00.373266 - 1 subdomains found
+
+2024-06-18T23:27:00.570770 - Valid subdomain : www.kariyer.com
+
+2024-06-18T23:27:00.571734 - Ip of the www.kariyer.com : 3.33.152.147
+
+2024-06-18T23:27:06.454130 - Open Ports at the 3.33.152.147 : [80]
+
+2024-06-18T23:27:06.455135 - Checking for an SSL certificate...
+
+2024-06-18T23:27:09.692398 - SSL details found for: www.kariyer.com
+
+2024-06-18T23:27:09.694426 - Found 1 valid subdomains!
+
+2024-06-18T23:27:09.695456 - Scan complete. Saved results to kariyer.com_1-1024_bruteforce=False.json
+

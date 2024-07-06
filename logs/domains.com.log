@@ -1,0 +1,38 @@
+2024-06-22T16:53:39.050325 - Starting subdomain scanning...
+
+2024-06-22T16:54:26.684304 - Starting subdomain scanning...
+
+2024-06-22T16:54:49.887576 - 6 subdomains found
+
+2024-06-22T16:54:49.955749 - Invalid subdomain : buy--domains.com
+
+2024-06-22T16:54:50.161090 - Valid subdomain : www.domains.com
+
+2024-06-22T16:54:50.161090 - Ip of the www.domains.com : 160.153.0.39
+
+2024-06-22T16:54:55.900063 - Open Ports at the 160.153.0.39 : [80, 443]
+
+2024-06-22T16:54:55.901061 - Checking for an SSL certificate...
+
+2024-06-22T16:54:56.053482 - SSL details found for: www.domains.com
+
+2024-06-22T16:54:56.187298 - Valid subdomain : shop.domains.com
+
+2024-06-22T16:54:56.188932 - Ip of the shop.domains.com : 104.238.65.129
+
+2024-06-22T16:55:01.954045 - Open Ports at the 104.238.65.129 : [80, 443]
+
+2024-06-22T16:55:01.954045 - Checking for an SSL certificate...
+
+2024-06-22T16:55:02.513026 - SSL details found for: shop.domains.com
+
+2024-06-22T16:55:02.661972 - Invalid subdomain : www.www.domains.com
+
+2024-06-22T16:55:02.725063 - Invalid subdomain : xn--domains.com
+
+2024-06-22T16:55:02.850147 - Invalid subdomain : www.xn--domains.com
+
+2024-06-22T16:55:02.856098 - Found 2 valid subdomains!
+
+2024-06-22T16:55:02.857098 - Scan complete. Saved results to domains.com_1-1024_bruteforce=False.json
+

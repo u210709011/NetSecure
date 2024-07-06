@@ -1,0 +1,40 @@
+2024-06-18T20:56:46.691856 - Starting subdomain scanning...
+
+2024-06-18T20:57:10.215355 - 4 subdomains found
+
+2024-06-18T20:57:10.241295 - Valid subdomain : www.coffy.com.tr
+
+2024-06-18T20:57:10.242293 - Ip of the www.coffy.com.tr : 104.18.20.226
+
+2024-06-18T20:57:15.960132 - Open Ports at the 104.18.20.226 : [80, 443]
+
+2024-06-18T20:57:15.960132 - Checking for an SSL certificate...
+
+2024-06-18T20:57:16.134419 - SSL details found for: www.coffy.com.tr
+
+2024-06-18T20:57:16.175596 - Invalid subdomain : burak.coffy.com.tr
+
+2024-06-18T20:57:16.191553 - Valid subdomain : sentry.coffy.com.tr
+
+2024-06-18T20:57:16.191553 - Ip of the sentry.coffy.com.tr : 104.18.20.226
+
+2024-06-18T20:57:21.926878 - Open Ports at the 104.18.20.226 : [80, 443]
+
+2024-06-18T20:57:21.927881 - Checking for an SSL certificate...
+
+2024-06-18T20:57:22.110963 - SSL details found for: sentry.coffy.com.tr
+
+2024-06-18T20:57:22.135581 - Valid subdomain : tr-catalog-dev.coffy.com.tr
+
+2024-06-18T20:57:22.136119 - Ip of the tr-catalog-dev.coffy.com.tr : 104.18.20.226
+
+2024-06-18T20:57:27.876637 - Open Ports at the 104.18.20.226 : [80, 443]
+
+2024-06-18T20:57:27.876637 - Checking for an SSL certificate...
+
+2024-06-18T20:57:28.048443 - SSL details found for: tr-catalog-dev.coffy.com.tr
+
+2024-06-18T20:57:28.052427 - Found 0 valid subdomains!
+
+2024-06-18T20:57:28.052427 - Scan complete. Saved results to coffy.com.tr_1-1024_bruteforce=False.json
+

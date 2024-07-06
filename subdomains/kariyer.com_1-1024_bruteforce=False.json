@@ -1,0 +1,9 @@
+{
+    "www.kariyer.com": {
+        "ip_address": "3.33.152.147",
+        "open_ports": [
+            80
+        ],
+        "ssl_details": null
+    }
+}

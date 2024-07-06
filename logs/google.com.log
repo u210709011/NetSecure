@@ -1,0 +1,1100 @@
+2024-06-18T22:56:41.405465 - Starting subdomain scanning...
+
+2024-06-18T22:58:50.903726 - 0 subdomains found
+
+2024-06-18T22:58:50.907036 - Found 0 valid subdomains!
+
+2024-06-18T22:58:50.908021 - Scan complete. Saved results to google.com_1-1024_bruteforce=False.json
+
+2024-06-18T23:00:34.136249 - Starting subdomain scanning...
+
+2024-06-18T23:00:59.945228 - 97 subdomains found
+
+2024-06-18T23:00:59.962188 - Valid subdomain : www.google.com
+
+2024-06-18T23:00:59.964212 - Ip of the www.google.com : 142.250.187.132
+
+2024-06-18T23:01:05.869692 - Open Ports at the 142.250.187.132 : [80, 443]
+
+2024-06-18T23:01:05.870698 - Checking for an SSL certificate...
+
+2024-06-18T23:01:06.188403 - SSL details found for: www.google.com
+
+2024-06-18T23:01:06.229222 - Valid subdomain : accounts.google.com
+
+2024-06-18T23:01:06.231215 - Ip of the accounts.google.com : 74.125.206.84
+
+2024-06-18T23:01:12.271952 - Open Ports at the 74.125.206.84 : []
+
+2024-06-18T23:01:12.272980 - Checking for an SSL certificate...
+
+2024-06-18T23:01:12.639794 - SSL details found for: accounts.google.com
+
+2024-06-18T23:01:12.779957 - Invalid subdomain : freezone.accounts.google.com
+
+2024-06-18T23:01:12.798835 - Valid subdomain : adwords.google.com
+
+2024-06-18T23:01:12.800816 - Ip of the adwords.google.com : 64.233.166.138
+
+2024-06-18T23:01:18.891296 - Open Ports at the 64.233.166.138 : []
+
+2024-06-18T23:01:18.892343 - Checking for an SSL certificate...
+
+2024-06-18T23:01:22.169718 - SSL details found for: adwords.google.com
+
+2024-06-18T23:01:22.302192 - Invalid subdomain : qa.adz.google.com
+
+2024-06-18T23:01:22.372503 - Valid subdomain : answers.google.com
+
+2024-06-18T23:01:22.373469 - Ip of the answers.google.com : 172.217.169.206
+
+2024-06-18T23:01:28.269270 - Open Ports at the 172.217.169.206 : []
+
+2024-06-18T23:01:28.269270 - Checking for an SSL certificate...
+
+2024-06-18T23:01:29.588742 - SSL details found for: answers.google.com
+
+2024-06-18T23:01:29.671680 - Invalid subdomain : apps-secure-data-connector.google.com
+
+2024-06-18T23:01:29.872007 - Valid subdomain : audioads.google.com
+
+2024-06-18T23:01:29.872007 - Ip of the audioads.google.com : 216.58.213.110
+
+2024-06-18T23:01:35.969218 - Open Ports at the 216.58.213.110 : []
+
+2024-06-18T23:01:35.969218 - Checking for an SSL certificate...
+
+2024-06-18T23:01:36.379627 - SSL details found for: audioads.google.com
+
+2024-06-18T23:01:36.470573 - Invalid subdomain : checkout.google.com
+
+2024-06-18T23:01:36.668856 - Invalid subdomain : mtv-da-1.ad.corp.google.com
+
+2024-06-18T23:01:36.908868 - Invalid subdomain : ads-compare.eem.corp.google.com
+
+2024-06-18T23:01:37.206767 - Invalid subdomain : da.ext.corp.google.com
+
+2024-06-18T23:01:37.528109 - Valid subdomain : m.guts.corp.google.com
+
+2024-06-18T23:01:37.528109 - Ip of the m.guts.corp.google.com : 172.217.218.129
+
+2024-06-18T23:01:43.785842 - Open Ports at the 172.217.218.129 : []
+
+2024-06-18T23:01:43.785842 - Checking for an SSL certificate...
+
+2024-06-18T23:01:46.983251 - SSL details found for: m.guts.corp.google.com
+
+2024-06-18T23:01:47.245697 - Valid subdomain : m.gutsdev.corp.google.com
+
+2024-06-18T23:01:47.245697 - Ip of the m.gutsdev.corp.google.com : 172.217.218.129
+
+2024-06-18T23:01:53.218219 - Open Ports at the 172.217.218.129 : []
+
+2024-06-18T23:01:53.218219 - Checking for an SSL certificate...
+
+2024-06-18T23:01:56.437074 - SSL details found for: m.gutsdev.corp.google.com
+
+2024-06-18T23:01:56.453407 - Valid subdomain : login.corp.google.com
+
+2024-06-18T23:01:56.453407 - Ip of the login.corp.google.com : 172.217.218.129
+
+2024-06-18T23:02:02.261376 - Open Ports at the 172.217.218.129 : []
+
+2024-06-18T23:02:02.261376 - Checking for an SSL certificate...
+
+2024-06-18T23:02:05.476591 - SSL details found for: login.corp.google.com
+
+2024-06-18T23:02:05.615162 - Invalid subdomain : mtv-da.corp.google.com
+
+2024-06-18T23:02:05.747193 - Invalid subdomain : mygeist.corp.google.com
+
+2024-06-18T23:02:05.888992 - Invalid subdomain : mygeist2010.corp.google.com
+
+2024-06-18T23:02:06.038945 - Valid subdomain : proxyconfig.corp.google.com
+
+2024-06-18T23:02:06.038945 - Ip of the proxyconfig.corp.google.com : 172.217.218.129
+
+2024-06-18T23:02:12.006712 - Open Ports at the 172.217.218.129 : []
+
+2024-06-18T23:02:12.006712 - Checking for an SSL certificate...
+
+2024-06-18T23:02:12.507201 - SSL details found for: proxyconfig.corp.google.com
+
+2024-06-18T23:02:12.630694 - Invalid subdomain : reseed.corp.google.com
+
+2024-06-18T23:02:12.820592 - Invalid subdomain : twdsalesgsa.twd.corp.google.com
+
+2024-06-18T23:02:12.977497 - Valid subdomain : uberproxy.corp.google.com
+
+2024-06-18T23:02:12.977497 - Ip of the uberproxy.corp.google.com : 172.217.218.129
+
+2024-06-18T23:02:19.067686 - Open Ports at the 172.217.218.129 : []
+
+2024-06-18T23:02:19.067686 - Checking for an SSL certificate...
+
+2024-06-18T23:02:22.308410 - SSL details found for: uberproxy.corp.google.com
+
+2024-06-18T23:02:22.441102 - Invalid subdomain : uberproxy-nocert.corp.google.com
+
+2024-06-18T23:02:22.567360 - Invalid subdomain : uberproxy-san.corp.google.com
+
+2024-06-18T23:02:22.643693 - Invalid subdomain : ext.google.com
+
+2024-06-18T23:02:22.779254 - Invalid subdomain : cag.ext.google.com
+
+2024-06-18T23:02:22.914929 - Valid subdomain : cod.ext.google.com
+
+2024-06-18T23:02:22.914929 - Ip of the cod.ext.google.com : 216.239.44.73
+
+2024-06-18T23:02:29.138698 - Open Ports at the 216.239.44.73 : []
+
+2024-06-18T23:02:29.138698 - Checking for an SSL certificate...
+
+2024-06-18T23:02:32.347672 - SSL details found for: cod.ext.google.com
+
+2024-06-18T23:02:32.487919 - Invalid subdomain : da.ext.google.com
+
+2024-06-18T23:02:32.622668 - Valid subdomain : eggroll.ext.google.com
+
+2024-06-18T23:02:32.622668 - Ip of the eggroll.ext.google.com : 216.239.44.90
+
+2024-06-18T23:02:38.842280 - Open Ports at the 216.239.44.90 : []
+
+2024-06-18T23:02:38.842280 - Checking for an SSL certificate...
+
+2024-06-18T23:02:42.159740 - SSL details found for: eggroll.ext.google.com
+
+2024-06-18T23:02:42.289085 - Invalid subdomain : fra-da.ext.google.com
+
+2024-06-18T23:02:42.422280 - Invalid subdomain : glass.ext.google.com
+
+2024-06-18T23:02:42.550783 - Invalid subdomain : glass-eur.ext.google.com
+
+2024-06-18T23:02:42.684169 - Invalid subdomain : glass-mtv.ext.google.com
+
+2024-06-18T23:02:42.819944 - Invalid subdomain : glass-twd.ext.google.com
+
+2024-06-18T23:02:42.963758 - Invalid subdomain : hot-da.ext.google.com
+
+2024-06-18T23:02:43.090578 - Invalid subdomain : hyd-da.ext.google.com
+
+2024-06-18T23:02:43.219678 - Invalid subdomain : ice.ext.google.com
+
+2024-06-18T23:02:43.359817 - Invalid subdomain : meeting.ext.google.com
+
+2024-06-18T23:02:43.504548 - Valid subdomain : mtv-da.ext.google.com
+
+2024-06-18T23:02:43.504548 - Ip of the mtv-da.ext.google.com : 216.239.45.170
+
+2024-06-18T23:02:49.620477 - Open Ports at the 216.239.45.170 : []
+
+2024-06-18T23:02:49.620477 - Checking for an SSL certificate...
+
+2024-06-18T23:02:52.892915 - SSL details found for: mtv-da.ext.google.com
+
+2024-06-18T23:02:53.139524 - Valid subdomain : soaproxyprod01.ext.google.com
+
+2024-06-18T23:02:53.139524 - Ip of the soaproxyprod01.ext.google.com : 72.14.225.70
+
+2024-06-18T23:02:59.297132 - Open Ports at the 72.14.225.70 : []
+
+2024-06-18T23:02:59.297132 - Checking for an SSL certificate...
+
+2024-06-18T23:03:02.625444 - SSL details found for: soaproxyprod01.ext.google.com
+
+2024-06-18T23:03:02.769194 - Valid subdomain : soaproxytest01.ext.google.com
+
+2024-06-18T23:03:02.769194 - Ip of the soaproxytest01.ext.google.com : 216.239.44.94
+
+2024-06-18T23:03:09.071320 - Open Ports at the 216.239.44.94 : []
+
+2024-06-18T23:03:09.071320 - Checking for an SSL certificate...
+
+2024-06-18T23:03:12.306693 - SSL details found for: soaproxytest01.ext.google.com
+
+2024-06-18T23:03:12.435535 - Invalid subdomain : spdy-proxy.ext.google.com
+
+2024-06-18T23:03:12.550710 - Invalid subdomain : spdy-proxy-debug.ext.google.com
+
+2024-06-18T23:03:12.674357 - Valid subdomain : twd-da.ext.google.com
+
+2024-06-18T23:03:12.674357 - Ip of the twd-da.ext.google.com : 72.14.229.178
+
+2024-06-18T23:03:18.573775 - Open Ports at the 72.14.229.178 : [443, 597, 589, 600, 592, 771, 767, 795, 764, 765, 780, 799]
+
+2024-06-18T23:03:18.573775 - Checking for an SSL certificate...
+
+2024-06-18T23:03:19.508689 - SSL details found for: twd-da.ext.google.com
+
+2024-06-18T23:03:19.584864 - Invalid subdomain : flexpack.google.com
+
+2024-06-18T23:03:19.709413 - Invalid subdomain : www.flexpack.google.com
+
+2024-06-18T23:03:19.841167 - Invalid subdomain : accounts.flexpack.google.com
+
+2024-06-18T23:03:19.975418 - Invalid subdomain : gaiastaging.flexpack.google.com
+
+2024-06-18T23:03:20.100838 - Invalid subdomain : mail.flexpack.google.com
+
+2024-06-18T23:03:20.233232 - Invalid subdomain : plus.flexpack.google.com
+
+2024-06-18T23:03:20.367315 - Invalid subdomain : search.flexpack.google.com
+
+2024-06-18T23:03:20.444685 - Invalid subdomain : freezone.google.com
+
+2024-06-18T23:03:20.577689 - Invalid subdomain : www.freezone.google.com
+
+2024-06-18T23:03:20.712036 - Invalid subdomain : accounts.freezone.google.com
+
+2024-06-18T23:03:20.846006 - Invalid subdomain : gaiastaging.freezone.google.com
+
+2024-06-18T23:03:20.970187 - Invalid subdomain : mail.freezone.google.com
+
+2024-06-18T23:03:21.089278 - Invalid subdomain : news.freezone.google.com
+
+2024-06-18T23:03:21.228642 - Invalid subdomain : plus.freezone.google.com
+
+2024-06-18T23:03:21.365327 - Invalid subdomain : search.freezone.google.com
+
+2024-06-18T23:03:21.441695 - Valid subdomain : gmail.google.com
+
+2024-06-18T23:03:21.441695 - Ip of the gmail.google.com : 172.217.169.206
+
+2024-06-18T23:03:27.712048 - Open Ports at the 172.217.169.206 : [80]
+
+2024-06-18T23:03:27.712048 - Checking for an SSL certificate...
+
+2024-06-18T23:03:30.940481 - SSL details found for: gmail.google.com
+
+2024-06-18T23:03:31.010810 - Invalid subdomain : hosted-id.google.com
+
+2024-06-18T23:03:31.094824 - Valid subdomain : jmt0.google.com
+
+2024-06-18T23:03:31.094824 - Ip of the jmt0.google.com : 172.217.169.206
+
+2024-06-18T23:03:37.378124 - Open Ports at the 172.217.169.206 : []
+
+2024-06-18T23:03:37.378124 - Checking for an SSL certificate...
+
+2024-06-18T23:03:37.776219 - SSL details found for: jmt0.google.com
+
+2024-06-18T23:03:37.908484 - Valid subdomain : aspmx.l.google.com
+
+2024-06-18T23:03:37.908484 - Ip of the aspmx.l.google.com : 74.125.71.26
+
+2024-06-18T23:03:43.744839 - Open Ports at the 74.125.71.26 : []
+
+2024-06-18T23:03:43.744839 - Checking for an SSL certificate...
+
+2024-06-18T23:03:47.001944 - SSL details found for: aspmx.l.google.com
+
+2024-06-18T23:03:47.129563 - Valid subdomain : alt1.aspmx.l.google.com
+
+2024-06-18T23:03:47.129863 - Ip of the alt1.aspmx.l.google.com : 142.250.153.26
+
+2024-06-18T23:03:53.020488 - Open Ports at the 142.250.153.26 : []
+
+2024-06-18T23:03:53.020488 - Checking for an SSL certificate...
+
+2024-06-18T23:03:56.288192 - SSL details found for: alt1.aspmx.l.google.com
+
+2024-06-18T23:03:56.429239 - Valid subdomain : alt2.aspmx.l.google.com
+
+2024-06-18T23:03:56.429239 - Ip of the alt2.aspmx.l.google.com : 142.251.9.27
+
+2024-06-18T23:04:02.255241 - Open Ports at the 142.251.9.27 : []
+
+2024-06-18T23:04:02.255241 - Checking for an SSL certificate...
+
+2024-06-18T23:04:05.571635 - SSL details found for: alt2.aspmx.l.google.com
+
+2024-06-18T23:04:05.710320 - Valid subdomain : alt3.aspmx.l.google.com
+
+2024-06-18T23:04:05.710320 - Ip of the alt3.aspmx.l.google.com : 142.250.150.26
+
+2024-06-18T23:04:11.547645 - Open Ports at the 142.250.150.26 : []
+
+2024-06-18T23:04:11.547645 - Checking for an SSL certificate...
+
+2024-06-18T23:04:14.840092 - SSL details found for: alt3.aspmx.l.google.com
+
+2024-06-18T23:04:14.969792 - Valid subdomain : alt4.aspmx.l.google.com
+
+2024-06-18T23:04:14.978011 - Ip of the alt4.aspmx.l.google.com : 74.125.200.26
+
+2024-06-18T23:04:20.759879 - Open Ports at the 74.125.200.26 : []
+
+2024-06-18T23:04:20.761778 - Checking for an SSL certificate...
+
+2024-06-18T23:04:23.974725 - SSL details found for: alt4.aspmx.l.google.com
+
+2024-06-18T23:04:24.093505 - Valid subdomain : gmail-smtp-in.l.google.com
+
+2024-06-18T23:04:24.102076 - Ip of the gmail-smtp-in.l.google.com : 108.177.15.27
+
+2024-06-18T23:04:30.366651 - Open Ports at the 108.177.15.27 : []
+
+2024-06-18T23:04:30.366651 - Checking for an SSL certificate...
+
+2024-06-18T23:04:33.725117 - SSL details found for: gmail-smtp-in.l.google.com
+
+2024-06-18T23:04:33.867276 - Valid subdomain : alt1.gmail-smtp-in.l.google.com
+
+2024-06-18T23:04:33.867276 - Ip of the alt1.gmail-smtp-in.l.google.com : 142.250.153.27
+
+2024-06-18T23:04:39.899945 - Open Ports at the 142.250.153.27 : []
+
+2024-06-18T23:04:39.899945 - Checking for an SSL certificate...
+
+2024-06-18T23:04:43.097711 - SSL details found for: alt1.gmail-smtp-in.l.google.com
+
+2024-06-18T23:04:43.215593 - Valid subdomain : alt2.gmail-smtp-in.l.google.com
+
+2024-06-18T23:04:43.215593 - Ip of the alt2.gmail-smtp-in.l.google.com : 142.251.9.26
+
+2024-06-18T23:04:49.001278 - Open Ports at the 142.251.9.26 : []
+
+2024-06-18T23:04:49.001278 - Checking for an SSL certificate...
+
+2024-06-18T23:04:52.223449 - SSL details found for: alt2.gmail-smtp-in.l.google.com
+
+2024-06-18T23:04:52.356885 - Valid subdomain : alt3.gmail-smtp-in.l.google.com
+
+2024-06-18T23:04:52.356885 - Ip of the alt3.gmail-smtp-in.l.google.com : 142.250.150.27
+
+2024-06-18T23:04:58.232444 - Open Ports at the 142.250.150.27 : []
+
+2024-06-18T23:04:58.232444 - Checking for an SSL certificate...
+
+2024-06-18T23:05:01.514445 - SSL details found for: alt3.gmail-smtp-in.l.google.com
+
+2024-06-18T23:05:01.655776 - Valid subdomain : alt4.gmail-smtp-in.l.google.com
+
+2024-06-18T23:05:01.656021 - Ip of the alt4.gmail-smtp-in.l.google.com : 74.125.200.26
+
+2024-06-18T23:05:07.502607 - Open Ports at the 74.125.200.26 : []
+
+2024-06-18T23:05:07.502607 - Checking for an SSL certificate...
+
+2024-06-18T23:05:10.721969 - SSL details found for: alt4.gmail-smtp-in.l.google.com
+
+2024-06-18T23:05:10.854631 - Valid subdomain : gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:10.854631 - Ip of the gmr-smtp-in.l.google.com : 142.251.168.14
+
+2024-06-18T23:05:17.096685 - Open Ports at the 142.251.168.14 : []
+
+2024-06-18T23:05:17.096685 - Checking for an SSL certificate...
+
+2024-06-18T23:05:20.424852 - SSL details found for: gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:20.547862 - Valid subdomain : alt1.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:20.547862 - Ip of the alt1.gmr-smtp-in.l.google.com : 142.250.153.14
+
+2024-06-18T23:05:26.407412 - Open Ports at the 142.250.153.14 : []
+
+2024-06-18T23:05:26.407412 - Checking for an SSL certificate...
+
+2024-06-18T23:05:29.629845 - SSL details found for: alt1.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:29.761910 - Valid subdomain : alt2.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:29.761910 - Ip of the alt2.gmr-smtp-in.l.google.com : 142.251.9.14
+
+2024-06-18T23:05:35.655205 - Open Ports at the 142.251.9.14 : []
+
+2024-06-18T23:05:35.655205 - Checking for an SSL certificate...
+
+2024-06-18T23:05:38.866918 - SSL details found for: alt2.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:38.996072 - Valid subdomain : alt3.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:38.996072 - Ip of the alt3.gmr-smtp-in.l.google.com : 142.250.150.14
+
+2024-06-18T23:05:44.950408 - Open Ports at the 142.250.150.14 : []
+
+2024-06-18T23:05:44.950408 - Checking for an SSL certificate...
+
+2024-06-18T23:05:48.216272 - SSL details found for: alt3.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:48.356674 - Valid subdomain : alt4.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:48.356674 - Ip of the alt4.gmr-smtp-in.l.google.com : 74.125.200.14
+
+2024-06-18T23:05:54.154303 - Open Ports at the 74.125.200.14 : []
+
+2024-06-18T23:05:54.154303 - Checking for an SSL certificate...
+
+2024-06-18T23:05:57.402431 - SSL details found for: alt4.gmr-smtp-in.l.google.com
+
+2024-06-18T23:05:57.543646 - Invalid subdomain : vp.video.l.google.com
+
+2024-06-18T23:05:57.568756 - Valid subdomain : m.google.com
+
+2024-06-18T23:05:57.568756 - Ip of the m.google.com : 142.251.140.75
+
+2024-06-18T23:06:03.416120 - Open Ports at the 142.251.140.75 : []
+
+2024-06-18T23:06:03.416120 - Checking for an SSL certificate...
+
+2024-06-18T23:06:06.666821 - SSL details found for: m.google.com
+
+2024-06-18T23:06:06.800893 - Invalid subdomain : freezone.m.google.com
+
+2024-06-18T23:06:06.817509 - Valid subdomain : mail.google.com
+
+2024-06-18T23:06:06.817509 - Ip of the mail.google.com : 142.250.184.133
+
+2024-06-18T23:06:12.889354 - Open Ports at the 142.250.184.133 : []
+
+2024-06-18T23:06:12.907554 - Checking for an SSL certificate...
+
+2024-06-18T23:06:16.107791 - SSL details found for: mail.google.com
+
+2024-06-18T23:06:16.240399 - Invalid subdomain : freezone.mail.google.com
+
+2024-06-18T23:06:16.322627 - Invalid subdomain : misc.google.com
+
+2024-06-18T23:06:16.396446 - Invalid subdomain : misc-sni.google.com
+
+2024-06-18T23:06:16.404688 - Valid subdomain : mtalk.google.com
+
+2024-06-18T23:06:16.404688 - Ip of the mtalk.google.com : 142.251.31.188
+
+2024-06-18T23:06:22.254488 - Open Ports at the 142.251.31.188 : []
+
+2024-06-18T23:06:22.254488 - Checking for an SSL certificate...
+
+2024-06-18T23:06:25.507894 - SSL details found for: mtalk.google.com
+
+2024-06-18T23:06:25.583131 - Invalid subdomain : mx.google.com
+
+2024-06-18T23:06:25.739881 - Invalid subdomain : ics.prod.google.com
+
+2024-06-18T23:06:25.814354 - Valid subdomain : sandbox.google.com
+
+2024-06-18T23:06:25.822859 - Ip of the sandbox.google.com : 142.250.110.81
+
+2024-06-18T23:06:31.680633 - Open Ports at the 142.250.110.81 : []
+
+2024-06-18T23:06:31.680633 - Checking for an SSL certificate...
+
+2024-06-18T23:06:34.981989 - SSL details found for: sandbox.google.com
+
+2024-06-18T23:06:35.116989 - Valid subdomain : cert-test.sandbox.google.com
+
+2024-06-18T23:06:35.124958 - Ip of the cert-test.sandbox.google.com : 66.102.1.90
+
+2024-06-18T23:06:40.983968 - Open Ports at the 66.102.1.90 : []
+
+2024-06-18T23:06:40.983968 - Checking for an SSL certificate...
+
+2024-06-18T23:06:44.288135 - SSL details found for: cert-test.sandbox.google.com
+
+2024-06-18T23:06:44.505096 - Valid subdomain : ecc-test.sandbox.google.com
+
+2024-06-18T23:06:44.505096 - Ip of the ecc-test.sandbox.google.com : 66.102.1.81
+
+2024-06-18T23:06:50.305245 - Open Ports at the 66.102.1.81 : []
+
+2024-06-18T23:06:50.305245 - Checking for an SSL certificate...
+
+2024-06-18T23:06:53.548714 - SSL details found for: ecc-test.sandbox.google.com
+
+2024-06-18T23:06:53.632060 - Valid subdomain : services.google.com
+
+2024-06-18T23:06:53.632060 - Ip of the services.google.com : 172.217.169.206
+
+2024-06-18T23:06:59.583400 - Open Ports at the 172.217.169.206 : []
+
+2024-06-18T23:06:59.583400 - Checking for an SSL certificate...
+
+2024-06-18T23:07:01.095398 - SSL details found for: services.google.com
+
+2024-06-18T23:07:01.169578 - Invalid subdomain : talk.google.com
+
+2024-06-18T23:07:01.244332 - Valid subdomain : upload.google.com
+
+2024-06-18T23:07:01.247158 - Ip of the upload.google.com : 216.58.212.47
+
+2024-06-18T23:07:07.338657 - Open Ports at the 216.58.212.47 : []
+
+2024-06-18T23:07:07.338657 - Checking for an SSL certificate...
+
+2024-06-18T23:07:07.772111 - SSL details found for: upload.google.com
+
+2024-06-18T23:07:07.940973 - Valid subdomain : dg.video.google.com
+
+2024-06-18T23:07:07.940973 - Ip of the dg.video.google.com : 74.125.143.176
+
+2024-06-18T23:07:13.822382 - Open Ports at the 74.125.143.176 : [443]
+
+2024-06-18T23:07:13.822382 - Checking for an SSL certificate...
+
+2024-06-18T23:07:14.426400 - SSL details found for: dg.video.google.com
+
+2024-06-18T23:07:14.676462 - Valid subdomain : upload.video.google.com
+
+2024-06-18T23:07:14.676462 - Ip of the upload.video.google.com : 142.250.184.143
+
+2024-06-18T23:07:20.686779 - Open Ports at the 142.250.184.143 : [80]
+
+2024-06-18T23:07:20.686779 - Checking for an SSL certificate...
+
+2024-06-18T23:07:23.966477 - SSL details found for: upload.video.google.com
+
+2024-06-18T23:07:24.173893 - Valid subdomain : wifi.google.com
+
+2024-06-18T23:07:24.173893 - Ip of the wifi.google.com : 108.177.127.123
+
+2024-06-18T23:07:30.213041 - Open Ports at the 108.177.127.123 : []
+
+2024-06-18T23:07:30.213041 - Checking for an SSL certificate...
+
+2024-06-18T23:07:33.417260 - SSL details found for: wifi.google.com
+
+2024-06-18T23:07:33.650002 - Invalid subdomain : onex.wifi.google.com
+
+2024-06-18T23:07:33.658906 - Found 44 valid subdomains!
+
+2024-06-18T23:07:33.658906 - Scan complete. Saved results to google.com_1-1024_bruteforce=False.json
+
+2024-06-22T21:22:17.969529 - Starting subdomain scanning...
+
+2024-06-22T21:22:42.812747 - 97 subdomains found
+
+2024-06-22T21:22:42.830981 - Valid subdomain : www.google.com
+
+2024-06-22T21:22:42.830981 - Ip of the www.google.com : 142.250.187.164
+
+2024-06-22T21:22:48.566815 - Open Ports at the 142.250.187.164 : [80, 443]
+
+2024-06-22T21:22:48.566815 - Checking for an SSL certificate...
+
+2024-06-22T21:22:48.790246 - SSL details found for: www.google.com
+
+2024-06-22T21:22:48.803986 - Valid subdomain : accounts.google.com
+
+2024-06-22T21:22:48.803986 - Ip of the accounts.google.com : 142.250.102.84
+
+2024-06-22T21:22:54.516456 - Open Ports at the 142.250.102.84 : [80, 443]
+
+2024-06-22T21:22:54.516456 - Checking for an SSL certificate...
+
+2024-06-22T21:22:54.763406 - SSL details found for: accounts.google.com
+
+2024-06-22T21:22:54.886865 - Invalid subdomain : freezone.accounts.google.com
+
+2024-06-22T21:22:54.899832 - Valid subdomain : adwords.google.com
+
+2024-06-22T21:22:54.900829 - Ip of the adwords.google.com : 142.250.27.139
+
+2024-06-22T21:23:00.618552 - Open Ports at the 142.250.27.139 : [80, 443]
+
+2024-06-22T21:23:00.618552 - Checking for an SSL certificate...
+
+2024-06-22T21:23:00.874267 - SSL details found for: adwords.google.com
+
+2024-06-22T21:23:00.999239 - Invalid subdomain : qa.adz.google.com
+
+2024-06-22T21:23:01.061427 - Valid subdomain : answers.google.com
+
+2024-06-22T21:23:01.061427 - Ip of the answers.google.com : 216.58.213.110
+
+2024-06-22T21:23:06.768056 - Open Ports at the 216.58.213.110 : [80, 443]
+
+2024-06-22T21:23:06.768056 - Checking for an SSL certificate...
+
+2024-06-22T21:23:07.000261 - SSL details found for: answers.google.com
+
+2024-06-22T21:23:07.065833 - Invalid subdomain : apps-secure-data-connector.google.com
+
+2024-06-22T21:23:07.217903 - Valid subdomain : audioads.google.com
+
+2024-06-22T21:23:07.218902 - Ip of the audioads.google.com : 142.250.187.142
+
+2024-06-22T21:23:12.925478 - Open Ports at the 142.250.187.142 : [80, 443]
+
+2024-06-22T21:23:12.926009 - Checking for an SSL certificate...
+
+2024-06-22T21:23:13.149174 - SSL details found for: audioads.google.com
+
+2024-06-22T21:23:13.232398 - Invalid subdomain : checkout.google.com
+
+2024-06-22T21:23:13.404530 - Invalid subdomain : mtv-da-1.ad.corp.google.com
+
+2024-06-22T21:23:13.623263 - Invalid subdomain : ads-compare.eem.corp.google.com
+
+2024-06-22T21:23:13.795116 - Invalid subdomain : da.ext.corp.google.com
+
+2024-06-22T21:23:14.072698 - Valid subdomain : m.guts.corp.google.com
+
+2024-06-22T21:23:14.087988 - Ip of the m.guts.corp.google.com : 173.194.69.129
+
+2024-06-22T21:23:19.784727 - Open Ports at the 173.194.69.129 : [80, 443]
+
+2024-06-22T21:23:19.784727 - Checking for an SSL certificate...
+
+2024-06-22T21:23:20.110537 - SSL details found for: m.guts.corp.google.com
+
+2024-06-22T21:23:20.247342 - Valid subdomain : m.gutsdev.corp.google.com
+
+2024-06-22T21:23:20.247342 - Ip of the m.gutsdev.corp.google.com : 108.177.119.129
+
+2024-06-22T21:23:25.923222 - Open Ports at the 108.177.119.129 : [80, 443]
+
+2024-06-22T21:23:25.923222 - Checking for an SSL certificate...
+
+2024-06-22T21:23:26.220373 - SSL details found for: m.gutsdev.corp.google.com
+
+2024-06-22T21:23:26.235935 - Valid subdomain : login.corp.google.com
+
+2024-06-22T21:23:26.235935 - Ip of the login.corp.google.com : 142.251.18.129
+
+2024-06-22T21:23:31.906188 - Open Ports at the 142.251.18.129 : [80, 443]
+
+2024-06-22T21:23:31.906188 - Checking for an SSL certificate...
+
+2024-06-22T21:23:32.203350 - SSL details found for: login.corp.google.com
+
+2024-06-22T21:23:32.359236 - Invalid subdomain : mtv-da.corp.google.com
+
+2024-06-22T21:23:32.468855 - Invalid subdomain : mygeist.corp.google.com
+
+2024-06-22T21:23:32.593893 - Invalid subdomain : mygeist2010.corp.google.com
+
+2024-06-22T21:23:32.750033 - Valid subdomain : proxyconfig.corp.google.com
+
+2024-06-22T21:23:32.750033 - Ip of the proxyconfig.corp.google.com : 172.217.218.129
+
+2024-06-22T21:23:38.441833 - Open Ports at the 172.217.218.129 : [80, 443]
+
+2024-06-22T21:23:38.441833 - Checking for an SSL certificate...
+
+2024-06-22T21:23:38.754137 - SSL details found for: proxyconfig.corp.google.com
+
+2024-06-22T21:23:38.879116 - Invalid subdomain : reseed.corp.google.com
+
+2024-06-22T21:23:39.050945 - Invalid subdomain : twdsalesgsa.twd.corp.google.com
+
+2024-06-22T21:23:39.144670 - Valid subdomain : uberproxy.corp.google.com
+
+2024-06-22T21:23:39.144670 - Ip of the uberproxy.corp.google.com : 172.217.218.129
+
+2024-06-22T21:23:44.836885 - Open Ports at the 172.217.218.129 : [80, 443]
+
+2024-06-22T21:23:44.836885 - Checking for an SSL certificate...
+
+2024-06-22T21:23:45.149316 - SSL details found for: uberproxy.corp.google.com
+
+2024-06-22T21:23:45.274333 - Invalid subdomain : uberproxy-nocert.corp.google.com
+
+2024-06-22T21:23:45.414871 - Invalid subdomain : uberproxy-san.corp.google.com
+
+2024-06-22T21:23:45.508268 - Invalid subdomain : ext.google.com
+
+2024-06-22T21:23:45.633701 - Invalid subdomain : cag.ext.google.com
+
+2024-06-22T21:23:45.743035 - Valid subdomain : cod.ext.google.com
+
+2024-06-22T21:23:45.743035 - Ip of the cod.ext.google.com : 216.239.44.73
+
+2024-06-22T21:23:51.431433 - Open Ports at the 216.239.44.73 : [140, 141, 175, 152, 168, 169, 170, 157, 156, 136, 153, 177, 171, 174, 176, 188, 189, 184, 195, 199, 185, 198, 194, 288, 290, 278, 281, 357, 359, 358, 374, 364, 367, 366, 365, 372, 356, 380, 373, 383, 375, 382, 381, 400, 649, 652, 653, 655, 654, 648, 663, 670, 668, 669, 661, 676, 675, 662, 671, 679, 660, 684, 678, 673, 672, 686, 687, 674, 677, 685, 692, 693, 695, 694, 700, 1000]
+
+2024-06-22T21:23:51.431433 - Checking for an SSL certificate...
+
+2024-06-22T21:23:54.571273 - SSL details found for: cod.ext.google.com
+
+2024-06-22T21:23:54.680251 - Invalid subdomain : da.ext.google.com
+
+2024-06-22T21:23:54.805620 - Valid subdomain : eggroll.ext.google.com
+
+2024-06-22T21:23:54.805620 - Ip of the eggroll.ext.google.com : 216.239.44.90
+
+2024-06-22T21:24:00.507333 - Open Ports at the 216.239.44.90 : [130, 150, 154, 166, 174, 170, 186, 190, 192, 198, 142, 182, 134, 158, 194, 138, 162, 127, 178, 146]
+
+2024-06-22T21:24:00.507333 - Checking for an SSL certificate...
+
+2024-06-22T21:24:03.646922 - SSL details found for: eggroll.ext.google.com
+
+2024-06-22T21:24:03.756612 - Invalid subdomain : fra-da.ext.google.com
+
+2024-06-22T21:24:03.881667 - Invalid subdomain : glass.ext.google.com
+
+2024-06-22T21:24:04.006517 - Invalid subdomain : glass-eur.ext.google.com
+
+2024-06-22T21:24:04.147098 - Invalid subdomain : glass-mtv.ext.google.com
+
+2024-06-22T21:24:04.272081 - Invalid subdomain : glass-twd.ext.google.com
+
+2024-06-22T21:24:04.396752 - Invalid subdomain : hot-da.ext.google.com
+
+2024-06-22T21:24:04.506389 - Invalid subdomain : hyd-da.ext.google.com
+
+2024-06-22T21:24:04.631369 - Invalid subdomain : ice.ext.google.com
+
+2024-06-22T21:24:04.740811 - Invalid subdomain : meeting.ext.google.com
+
+2024-06-22T21:24:04.865687 - Valid subdomain : mtv-da.ext.google.com
+
+2024-06-22T21:24:04.865687 - Ip of the mtv-da.ext.google.com : 216.239.45.170
+
+2024-06-22T21:24:10.592407 - Open Ports at the 216.239.45.170 : []
+
+2024-06-22T21:24:10.592407 - Checking for an SSL certificate...
+
+2024-06-22T21:24:13.733308 - SSL details found for: mtv-da.ext.google.com
+
+2024-06-22T21:24:13.895315 - Valid subdomain : soaproxyprod01.ext.google.com
+
+2024-06-22T21:24:13.896321 - Ip of the soaproxyprod01.ext.google.com : 72.14.225.70
+
+2024-06-22T21:24:19.593514 - Open Ports at the 72.14.225.70 : [56, 58, 54, 60, 64, 62, 74, 66, 78, 79, 70, 76, 100, 84, 92, 86, 72, 98, 90, 82, 80, 96, 68, 94, 88, 177, 182, 180, 175, 181, 189, 186, 190, 185, 194, 198, 192, 196, 193, 191, 197, 188, 200, 184, 355, 338, 358, 374, 354, 395, 371, 343, 388, 389, 370, 398, 375, 359, 394, 399, 627, 626, 630, 631, 700, 933, 932, 948, 958, 980, 997, 981, 949, 965, 954, 996, 959, 964, 955]
+
+2024-06-22T21:24:19.593514 - Checking for an SSL certificate...
+
+2024-06-22T21:24:22.733412 - SSL details found for: soaproxyprod01.ext.google.com
+
+2024-06-22T21:24:22.811571 - Valid subdomain : soaproxytest01.ext.google.com
+
+2024-06-22T21:24:22.811571 - Ip of the soaproxytest01.ext.google.com : 216.239.44.94
+
+2024-06-22T21:24:28.504299 - Open Ports at the 216.239.44.94 : []
+
+2024-06-22T21:24:28.504299 - Checking for an SSL certificate...
+
+2024-06-22T21:24:31.640598 - SSL details found for: soaproxytest01.ext.google.com
+
+2024-06-22T21:24:31.764132 - Invalid subdomain : spdy-proxy.ext.google.com
+
+2024-06-22T21:24:31.916602 - Invalid subdomain : spdy-proxy-debug.ext.google.com
+
+2024-06-22T21:24:32.042885 - Valid subdomain : twd-da.ext.google.com
+
+2024-06-22T21:24:32.043895 - Ip of the twd-da.ext.google.com : 72.14.229.178
+
+2024-06-22T21:24:37.784969 - Open Ports at the 72.14.229.178 : [66, 64, 65, 54, 48, 55, 67, 70, 68, 69, 86, 80, 81, 71, 82, 87, 99, 85, 97, 98, 84, 83, 100, 96, 107, 110, 111, 108, 141, 170, 143, 175, 171, 168, 193, 142, 182, 174, 173, 192, 169, 197, 196, 172, 195, 180, 183, 199, 181, 200, 198, 194, 298, 371, 372, 380, 382, 358, 368, 376, 378, 387, 398, 392, 484, 489, 443]
+
+2024-06-22T21:24:37.784969 - Checking for an SSL certificate...
+
+2024-06-22T21:24:38.709286 - SSL details found for: twd-da.ext.google.com
+
+2024-06-22T21:24:38.808556 - Invalid subdomain : flexpack.google.com
+
+2024-06-22T21:24:38.929399 - Invalid subdomain : www.flexpack.google.com
+
+2024-06-22T21:24:39.064722 - Invalid subdomain : accounts.flexpack.google.com
+
+2024-06-22T21:24:39.207154 - Invalid subdomain : gaiastaging.flexpack.google.com
+
+2024-06-22T21:24:39.356820 - Invalid subdomain : mail.flexpack.google.com
+
+2024-06-22T21:24:39.477133 - Invalid subdomain : plus.flexpack.google.com
+
+2024-06-22T21:24:39.598419 - Invalid subdomain : search.flexpack.google.com
+
+2024-06-22T21:24:39.697647 - Invalid subdomain : freezone.google.com
+
+2024-06-22T21:24:39.838090 - Invalid subdomain : www.freezone.google.com
+
+2024-06-22T21:24:39.952758 - Invalid subdomain : accounts.freezone.google.com
+
+2024-06-22T21:24:40.070942 - Invalid subdomain : gaiastaging.freezone.google.com
+
+2024-06-22T21:24:40.188681 - Invalid subdomain : mail.freezone.google.com
+
+2024-06-22T21:24:40.326704 - Invalid subdomain : news.freezone.google.com
+
+2024-06-22T21:24:40.458080 - Invalid subdomain : plus.freezone.google.com
+
+2024-06-22T21:24:40.604670 - Invalid subdomain : search.freezone.google.com
+
+2024-06-22T21:24:40.667486 - Valid subdomain : gmail.google.com
+
+2024-06-22T21:24:40.667486 - Ip of the gmail.google.com : 216.58.213.110
+
+2024-06-22T21:24:46.398712 - Open Ports at the 216.58.213.110 : [80, 443]
+
+2024-06-22T21:24:46.399704 - Checking for an SSL certificate...
+
+2024-06-22T21:24:46.638555 - SSL details found for: gmail.google.com
+
+2024-06-22T21:24:46.708260 - Invalid subdomain : hosted-id.google.com
+
+2024-06-22T21:24:46.785001 - Valid subdomain : jmt0.google.com
+
+2024-06-22T21:24:46.786997 - Ip of the jmt0.google.com : 216.58.213.110
+
+2024-06-22T21:24:52.496438 - Open Ports at the 216.58.213.110 : [80, 443]
+
+2024-06-22T21:24:52.496438 - Checking for an SSL certificate...
+
+2024-06-22T21:24:52.725820 - SSL details found for: jmt0.google.com
+
+2024-06-22T21:24:52.848723 - Valid subdomain : aspmx.l.google.com
+
+2024-06-22T21:24:52.850737 - Ip of the aspmx.l.google.com : 142.250.27.26
+
+2024-06-22T21:24:58.600262 - Open Ports at the 142.250.27.26 : []
+
+2024-06-22T21:24:58.600262 - Checking for an SSL certificate...
+
+2024-06-22T21:25:01.762573 - SSL details found for: aspmx.l.google.com
+
+2024-06-22T21:25:01.857389 - Valid subdomain : alt1.aspmx.l.google.com
+
+2024-06-22T21:25:01.858418 - Ip of the alt1.aspmx.l.google.com : 142.251.9.26
+
+2024-06-22T21:25:07.591093 - Open Ports at the 142.251.9.26 : []
+
+2024-06-22T21:25:07.592090 - Checking for an SSL certificate...
+
+2024-06-22T21:25:10.748709 - SSL details found for: alt1.aspmx.l.google.com
+
+2024-06-22T21:25:10.847597 - Valid subdomain : alt2.aspmx.l.google.com
+
+2024-06-22T21:25:10.848594 - Ip of the alt2.aspmx.l.google.com : 142.250.150.27
+
+2024-06-22T21:25:16.572978 - Open Ports at the 142.250.150.27 : []
+
+2024-06-22T21:25:16.573483 - Checking for an SSL certificate...
+
+2024-06-22T21:25:19.712184 - SSL details found for: alt2.aspmx.l.google.com
+
+2024-06-22T21:25:19.798318 - Valid subdomain : alt3.aspmx.l.google.com
+
+2024-06-22T21:25:19.800291 - Ip of the alt3.aspmx.l.google.com : 74.125.200.26
+
+2024-06-22T21:25:25.589531 - Open Ports at the 74.125.200.26 : []
+
+2024-06-22T21:25:25.589531 - Checking for an SSL certificate...
+
+2024-06-22T21:25:28.717581 - SSL details found for: alt3.aspmx.l.google.com
+
+2024-06-22T21:25:28.800516 - Valid subdomain : alt4.aspmx.l.google.com
+
+2024-06-22T21:25:28.801424 - Ip of the alt4.aspmx.l.google.com : 142.250.157.26
+
+2024-06-22T21:25:34.545189 - Open Ports at the 142.250.157.26 : []
+
+2024-06-22T21:25:34.545189 - Checking for an SSL certificate...
+
+2024-06-22T21:25:37.683561 - SSL details found for: alt4.aspmx.l.google.com
+
+2024-06-22T21:25:37.805933 - Valid subdomain : gmail-smtp-in.l.google.com
+
+2024-06-22T21:25:37.807110 - Ip of the gmail-smtp-in.l.google.com : 142.250.102.27
+
+2024-06-22T21:25:43.539843 - Open Ports at the 142.250.102.27 : []
+
+2024-06-22T21:25:43.539843 - Checking for an SSL certificate...
+
+2024-06-22T21:25:46.668866 - SSL details found for: gmail-smtp-in.l.google.com
+
+2024-06-22T21:25:46.686984 - Valid subdomain : alt1.gmail-smtp-in.l.google.com
+
+2024-06-22T21:25:46.686984 - Ip of the alt1.gmail-smtp-in.l.google.com : 142.251.9.27
+
+2024-06-22T21:25:52.435219 - Open Ports at the 142.251.9.27 : []
+
+2024-06-22T21:25:52.436205 - Checking for an SSL certificate...
+
+2024-06-22T21:25:55.568133 - SSL details found for: alt1.gmail-smtp-in.l.google.com
+
+2024-06-22T21:25:55.748229 - Valid subdomain : alt2.gmail-smtp-in.l.google.com
+
+2024-06-22T21:25:55.750233 - Ip of the alt2.gmail-smtp-in.l.google.com : 142.250.150.27
+
+2024-06-22T21:26:01.506478 - Open Ports at the 142.250.150.27 : []
+
+2024-06-22T21:26:01.506478 - Checking for an SSL certificate...
+
+2024-06-22T21:26:04.650804 - SSL details found for: alt2.gmail-smtp-in.l.google.com
+
+2024-06-22T21:26:04.826112 - Valid subdomain : alt3.gmail-smtp-in.l.google.com
+
+2024-06-22T21:26:04.828163 - Ip of the alt3.gmail-smtp-in.l.google.com : 74.125.200.26
+
+2024-06-22T21:26:10.614736 - Open Ports at the 74.125.200.26 : []
+
+2024-06-22T21:26:10.615804 - Checking for an SSL certificate...
+
+2024-06-22T21:26:13.808759 - SSL details found for: alt3.gmail-smtp-in.l.google.com
+
+2024-06-22T21:26:13.979767 - Valid subdomain : alt4.gmail-smtp-in.l.google.com
+
+2024-06-22T21:26:13.981755 - Ip of the alt4.gmail-smtp-in.l.google.com : 142.250.157.27
+
+2024-06-22T21:26:19.761977 - Open Ports at the 142.250.157.27 : []
+
+2024-06-22T21:26:19.761977 - Checking for an SSL certificate...
+
+2024-06-22T21:26:22.900748 - SSL details found for: alt4.gmail-smtp-in.l.google.com
+
+2024-06-22T21:26:23.045449 - Valid subdomain : gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:23.046412 - Ip of the gmr-smtp-in.l.google.com : 142.250.27.14
+
+2024-06-22T21:26:28.792913 - Open Ports at the 142.250.27.14 : []
+
+2024-06-22T21:26:28.793911 - Checking for an SSL certificate...
+
+2024-06-22T21:26:31.943329 - SSL details found for: gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:32.034347 - Valid subdomain : alt1.gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:32.035361 - Ip of the alt1.gmr-smtp-in.l.google.com : 142.251.9.14
+
+2024-06-22T21:26:37.788747 - Open Ports at the 142.251.9.14 : []
+
+2024-06-22T21:26:37.788747 - Checking for an SSL certificate...
+
+2024-06-22T21:26:40.937021 - SSL details found for: alt1.gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:41.122906 - Valid subdomain : alt2.gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:41.122906 - Ip of the alt2.gmr-smtp-in.l.google.com : 142.250.150.14
+
+2024-06-22T21:26:46.856646 - Open Ports at the 142.250.150.14 : []
+
+2024-06-22T21:26:46.857644 - Checking for an SSL certificate...
+
+2024-06-22T21:26:50.003290 - SSL details found for: alt2.gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:50.103227 - Valid subdomain : alt3.gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:50.104206 - Ip of the alt3.gmr-smtp-in.l.google.com : 74.125.200.14
+
+2024-06-22T21:26:55.822953 - Open Ports at the 74.125.200.14 : []
+
+2024-06-22T21:26:55.824227 - Checking for an SSL certificate...
+
+2024-06-22T21:26:58.975496 - SSL details found for: alt3.gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:59.155839 - Valid subdomain : alt4.gmr-smtp-in.l.google.com
+
+2024-06-22T21:26:59.157461 - Ip of the alt4.gmr-smtp-in.l.google.com : 142.250.157.14
+
+2024-06-22T21:27:04.896902 - Open Ports at the 142.250.157.14 : []
+
+2024-06-22T21:27:04.897870 - Checking for an SSL certificate...
+
+2024-06-22T21:27:08.036426 - SSL details found for: alt4.gmr-smtp-in.l.google.com
+
+2024-06-22T21:27:08.264453 - Invalid subdomain : vp.video.l.google.com
+
+2024-06-22T21:27:08.346880 - Valid subdomain : m.google.com
+
+2024-06-22T21:27:08.347844 - Ip of the m.google.com : 216.58.212.11
+
+2024-06-22T21:27:14.099902 - Open Ports at the 216.58.212.11 : [80, 443]
+
+2024-06-22T21:27:14.099902 - Checking for an SSL certificate...
+
+2024-06-22T21:27:14.340146 - SSL details found for: m.google.com
+
+2024-06-22T21:27:14.458627 - Invalid subdomain : freezone.m.google.com
+
+2024-06-22T21:27:14.465900 - Valid subdomain : mail.google.com
+
+2024-06-22T21:27:14.465900 - Ip of the mail.google.com : 216.58.213.101
+
+2024-06-22T21:27:20.199494 - Open Ports at the 216.58.213.101 : [80, 443]
+
+2024-06-22T21:27:20.199494 - Checking for an SSL certificate...
+
+2024-06-22T21:27:20.443831 - SSL details found for: mail.google.com
+
+2024-06-22T21:27:20.599879 - Invalid subdomain : freezone.mail.google.com
+
+2024-06-22T21:27:20.681358 - Invalid subdomain : misc.google.com
+
+2024-06-22T21:27:20.768293 - Invalid subdomain : misc-sni.google.com
+
+2024-06-22T21:27:20.793194 - Valid subdomain : mtalk.google.com
+
+2024-06-22T21:27:20.794241 - Ip of the mtalk.google.com : 108.177.119.188
+
+2024-06-22T21:27:26.560677 - Open Ports at the 108.177.119.188 : [443]
+
+2024-06-22T21:27:26.560677 - Checking for an SSL certificate...
+
+2024-06-22T21:27:26.841611 - SSL details found for: mtalk.google.com
+
+2024-06-22T21:27:26.910441 - Invalid subdomain : mx.google.com
+
+2024-06-22T21:27:27.034387 - Invalid subdomain : ics.prod.google.com
+
+2024-06-22T21:27:27.111195 - Valid subdomain : sandbox.google.com
+
+2024-06-22T21:27:27.111998 - Ip of the sandbox.google.com : 142.250.27.81
+
+2024-06-22T21:27:32.840158 - Open Ports at the 142.250.27.81 : [80, 443, 842]
+
+2024-06-22T21:27:32.840158 - Checking for an SSL certificate...
+
+2024-06-22T21:27:33.201402 - SSL details found for: sandbox.google.com
+
+2024-06-22T21:27:33.353564 - Valid subdomain : cert-test.sandbox.google.com
+
+2024-06-22T21:27:33.354521 - Ip of the cert-test.sandbox.google.com : 142.250.102.90
+
+2024-06-22T21:27:39.084965 - Open Ports at the 142.250.102.90 : [80, 443]
+
+2024-06-22T21:27:39.084965 - Checking for an SSL certificate...
+
+2024-06-22T21:27:39.373399 - SSL details found for: cert-test.sandbox.google.com
+
+2024-06-22T21:27:39.498484 - Valid subdomain : ecc-test.sandbox.google.com
+
+2024-06-22T21:27:39.499514 - Ip of the ecc-test.sandbox.google.com : 142.250.27.81
+
+2024-06-22T21:27:45.245877 - Open Ports at the 142.250.27.81 : [80, 443, 842]
+
+2024-06-22T21:27:45.245877 - Checking for an SSL certificate...
+
+2024-06-22T21:27:45.543775 - SSL details found for: ecc-test.sandbox.google.com
+
+2024-06-22T21:27:45.609036 - Valid subdomain : services.google.com
+
+2024-06-22T21:27:45.610112 - Ip of the services.google.com : 216.58.212.46
+
+2024-06-22T21:27:51.335761 - Open Ports at the 216.58.212.46 : [80, 443]
+
+2024-06-22T21:27:51.335761 - Checking for an SSL certificate...
+
+2024-06-22T21:27:51.585308 - SSL details found for: services.google.com
+
+2024-06-22T21:27:51.681796 - Invalid subdomain : talk.google.com
+
+2024-06-22T21:27:51.752942 - Valid subdomain : upload.google.com
+
+2024-06-22T21:27:51.752942 - Ip of the upload.google.com : 142.251.141.47
+
+2024-06-22T21:27:57.452100 - Open Ports at the 142.251.141.47 : [80, 443]
+
+2024-06-22T21:27:57.452100 - Checking for an SSL certificate...
+
+2024-06-22T21:27:57.695078 - SSL details found for: upload.google.com
+
+2024-06-22T21:27:57.736057 - Invalid subdomain : dg.video.google.com
+
+2024-06-22T21:27:57.753302 - Invalid subdomain : upload.video.google.com
+
+2024-06-22T21:27:57.915641 - Valid subdomain : wifi.google.com
+
+2024-06-22T21:27:57.931258 - Ip of the wifi.google.com : 108.177.119.123
+
+2024-06-22T21:28:03.600929 - Open Ports at the 108.177.119.123 : [80, 443]
+
+2024-06-22T21:28:03.600929 - Checking for an SSL certificate...
+
+2024-06-22T21:28:03.852883 - SSL details found for: wifi.google.com
+
+2024-06-22T21:28:03.986984 - Invalid subdomain : onex.wifi.google.com
+
+2024-06-22T21:28:03.986984 - Found 42 valid subdomains!
+
+2024-06-22T21:28:03.986984 - Scan complete. Saved results to google.com_1-1024_bruteforce=False.json
+

@@ -1,0 +1,108 @@
+{
+    "www.coffy.com": {
+        "ip_address": "172.64.152.166",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "www.coffy.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "E1"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "04F6550DD170705D1601BC9EF73B7A0FE125",
+            "notBefore": "Jun  4 15:00:14 2024 GMT",
+            "notAfter": "Sep  2 15:00:13 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "www.coffy.com"
+                ]
+            ],
+            "OCSP": [
+                "http://e1.o.lencr.org"
+            ],
+            "caIssuers": [
+                "http://e1.i.lencr.org/"
+            ]
+        }
+    },
+    "app.coffy.com": {
+        "ip_address": "104.18.37.19",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "app.coffy.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "E1"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "033B573AA2014006DF5019A7F4B6DB46113D",
+            "notBefore": "Jun  3 19:34:22 2024 GMT",
+            "notAfter": "Sep  1 19:34:21 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "app.coffy.com"
+                ]
+            ],
+            "OCSP": [
+                "http://e1.o.lencr.org"
+            ],
+            "caIssuers": [
+                "http://e1.i.lencr.org/"
+            ]
+        }
+    }
+}

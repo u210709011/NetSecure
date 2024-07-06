@@ -1,0 +1,54 @@
+2024-06-21T18:58:04.823762 - Starting subdomain scanning...
+
+2024-06-21T18:58:27.446663 - 11 subdomains found
+
+2024-06-21T18:58:27.464215 - Valid subdomain : blog.donanimhaber.com
+
+2024-06-21T18:58:27.464804 - Ip of the blog.donanimhaber.com : 52.1.119.170
+
+2024-06-21T18:58:33.197025 - Open Ports at the 52.1.119.170 : [80, 443]
+
+2024-06-21T18:58:33.198040 - Checking for an SSL certificate...
+
+2024-06-21T18:58:33.726005 - SSL details found for: blog.donanimhaber.com
+
+2024-06-21T18:58:33.797425 - Invalid subdomain : www.blog.donanimhaber.com
+
+2024-06-21T18:58:33.816674 - Valid subdomain : indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:33.817672 - Ip of the indirimkodu.donanimhaber.com : 172.67.176.207
+
+2024-06-21T18:58:39.542331 - Open Ports at the 172.67.176.207 : [80, 443]
+
+2024-06-21T18:58:39.542331 - Checking for an SSL certificate...
+
+2024-06-21T18:58:39.743649 - SSL details found for: indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:39.777209 - Invalid subdomain : www.indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:39.842997 - Invalid subdomain : cpanel.indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:39.884020 - Invalid subdomain : cpcalendars.indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:39.918680 - Invalid subdomain : cpcontacts.indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:39.950971 - Invalid subdomain : mail.indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:39.984043 - Invalid subdomain : webdisk.indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:40.013618 - Invalid subdomain : webmail.indirimkodu.donanimhaber.com
+
+2024-06-21T18:58:40.088429 - Valid subdomain : status.donanimhaber.com
+
+2024-06-21T18:58:40.089460 - Ip of the status.donanimhaber.com : 142.132.149.97
+
+2024-06-21T18:58:45.830829 - Open Ports at the 142.132.149.97 : [80, 443]
+
+2024-06-21T18:58:45.831775 - Checking for an SSL certificate...
+
+2024-06-21T18:58:46.167428 - SSL details found for: status.donanimhaber.com
+
+2024-06-21T18:58:46.170413 - Found 3 valid subdomains!
+
+2024-06-21T18:58:46.170413 - Scan complete. Saved results to donanimhaber.com_1-1024_bruteforce=False.json
+

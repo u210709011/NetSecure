@@ -1,0 +1,135 @@
+{
+    "blog.donanimhaber.com": {
+        "ip_address": "52.1.119.170",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "blog.donanimhaber.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "GB"
+                    ]
+                ],
+                [
+                    [
+                        "stateOrProvinceName",
+                        "Greater Manchester"
+                    ]
+                ],
+                [
+                    [
+                        "localityName",
+                        "Salford"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Sectigo Limited"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "Sectigo RSA Domain Validation Secure Server CA"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "B312E18E003374368EC328CFE74A0B7B",
+            "notBefore": "Aug 15 00:00:00 2023 GMT",
+            "notAfter": "Aug 14 23:59:59 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "blog.donanimhaber.com"
+                ]
+            ],
+            "OCSP": [
+                "http://ocsp.sectigo.com"
+            ],
+            "caIssuers": [
+                "http://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt"
+            ]
+        }
+    },
+    "indirimkodu.donanimhaber.com": {
+        "ip_address": "172.67.176.207",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "donanimhaber.com"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Google Trust Services"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "WE1"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "DF6BBBF43C1AC3C10E01484542297C96",
+            "notBefore": "Jun 19 11:39:15 2024 GMT",
+            "notAfter": "Sep 17 11:39:14 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "donanimhaber.com"
+                ],
+                [
+                    "DNS",
+                    "*.donanimhaber.com"
+                ]
+            ],
+            "OCSP": [
+                "http://o.pki.goog/s/we1/32s"
+            ],
+            "caIssuers": [
+                "http://i.pki.goog/we1.crt"
+            ],
+            "crlDistributionPoints": [
+                "http://c.pki.goog/we1/AVf_tp6YFrE.crl"
+            ]
+        }
+    },
+    "status.donanimhaber.com": {
+        "ip_address": "142.132.149.97",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": null
+    }
+}

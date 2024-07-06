@@ -1,0 +1,173 @@
+{
+    "www.coffy.com.tr": {
+        "ip_address": "104.18.20.226",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "coffy.com.tr"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "E1"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "04461EDF01A00CFB432A553A0F30FB9EF10C",
+            "notBefore": "May  4 02:19:51 2024 GMT",
+            "notAfter": "Aug  2 02:19:50 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "*.coffy.com.tr"
+                ],
+                [
+                    "DNS",
+                    "coffy.com.tr"
+                ]
+            ],
+            "OCSP": [
+                "http://e1.o.lencr.org"
+            ],
+            "caIssuers": [
+                "http://e1.i.lencr.org/"
+            ]
+        }
+    },
+    "sentry.coffy.com.tr": {
+        "ip_address": "104.18.20.226",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "coffy.com.tr"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "E1"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "04461EDF01A00CFB432A553A0F30FB9EF10C",
+            "notBefore": "May  4 02:19:51 2024 GMT",
+            "notAfter": "Aug  2 02:19:50 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "*.coffy.com.tr"
+                ],
+                [
+                    "DNS",
+                    "coffy.com.tr"
+                ]
+            ],
+            "OCSP": [
+                "http://e1.o.lencr.org"
+            ],
+            "caIssuers": [
+                "http://e1.i.lencr.org/"
+            ]
+        }
+    },
+    "tr-catalog-dev.coffy.com.tr": {
+        "ip_address": "104.18.20.226",
+        "open_ports": [
+            80,
+            443
+        ],
+        "ssl_details": {
+            "subject": [
+                [
+                    [
+                        "commonName",
+                        "coffy.com.tr"
+                    ]
+                ]
+            ],
+            "issuer": [
+                [
+                    [
+                        "countryName",
+                        "US"
+                    ]
+                ],
+                [
+                    [
+                        "organizationName",
+                        "Let's Encrypt"
+                    ]
+                ],
+                [
+                    [
+                        "commonName",
+                        "E1"
+                    ]
+                ]
+            ],
+            "version": 3,
+            "serialNumber": "04461EDF01A00CFB432A553A0F30FB9EF10C",
+            "notBefore": "May  4 02:19:51 2024 GMT",
+            "notAfter": "Aug  2 02:19:50 2024 GMT",
+            "subjectAltName": [
+                [
+                    "DNS",
+                    "*.coffy.com.tr"
+                ],
+                [
+                    "DNS",
+                    "coffy.com.tr"
+                ]
+            ],
+            "OCSP": [
+                "http://e1.o.lencr.org"
+            ],
+            "caIssuers": [
+                "http://e1.i.lencr.org/"
+            ]
+        }
+    }
+}
